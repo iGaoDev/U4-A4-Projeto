@@ -1,0 +1,2 @@
+Requisito 1: O sistema deve permitir login do usuário.
+Requisito 2: O sistema deve registrar atividades em log.
